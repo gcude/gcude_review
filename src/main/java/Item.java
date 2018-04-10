@@ -1,1 +1,1 @@
-package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+package main.java;/*File:	Item.javaAuthor:	Gavin CudeDate:	4/2018Description: Class defining an Item object*/public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
